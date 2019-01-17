@@ -1,0 +1,40 @@
+
+
+body{
+  background-color: #f6f6ef;
+}
+
+ul{
+    display: block;
+    list-style-type: none;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+}
+
+span {
+  border-bottom: 1px solid black;
+
+}
+
+img {
+  float: left;
+  padding-right: 5px;
+}
+
+ol{
+  list-style: decimal;
+  position: relative;
+  bottom: 18px;
+}
+
+a {
+  color: black;
+  font-size: 20px;
+  font-weight: bold;
+  text-decoration: none;
+  position: relative;
+  bottom: 25px;
+}
